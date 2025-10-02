@@ -1,4 +1,4 @@
-# **Flood Evacuation Assistance System : FlowAway**
+# **Flood Evacuation Assistance System : FlowAway** 
 
 This project was developed during the **AI Action Summit Hackathon**, held on February 15-16, 2025, at Doctolib, in partnership with Back Market, Mistral AI, Nvidia, RAISE Summit, Scaleway, SIA Partners, and Sweep. The event brought together over a hundred participants to tackle challenges related to health and the environment under the theme **"One Health"**.
 
